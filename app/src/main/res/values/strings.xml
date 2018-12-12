@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ACMEBOTS-ALFA</string>
+    <string name="acmebots">BIENVENIDOS A ACMEBOTS</string>
+    <string name="acmebots2">SELECCIONE</string>
+    <string name="curso">Cursos</string>
+    <string name="administrador">Administrador</string>
+    <string name="ubicacion">Ubicanos</string>
+    <string name="noticias">Noticias</string>
+    <string name="infocursos">Abrir Curso</string>
+    <string name="regresar">Regresar</string>
+    <string name="inicar">Iniciar</string>
+    <string name="cursos">Elija el Curso que desee Matricularse</string>
+    <string name="codigo">Codigo de Curso</string>
+    <string name="descripcion">Nombre del Curso</string>
+    <string name="instructor">Instructor del Curso</string>
+    <string name="registro">Registrar Curso</string>
+    <string name="buscar">Buscar Curso</string>
+    <string name="modificar">Modificar Curso</string>
+    <string name="eliminar">Eliminar Curso</string>
+    <string name="iniciar">INICIAR</string>
+</resources>
